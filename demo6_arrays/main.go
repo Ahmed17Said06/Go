@@ -10,6 +10,8 @@ func main() {
 	fmt.Println(arr)
 
 	fmt.Println(arr[1])
+	fmt.Println(arr[1])
+	arr[1] = "Chai Tea"
 
 	arr2 := arr
 	arr2[2] = "Chai Latte"
